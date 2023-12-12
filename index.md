@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://forfover.com/xiu1.jpg" class="floatpic" width="360" height="480">
+<img src="https://forfover.com/xiuxiu2.jpg" class="floatpic" width="360" height="480">
 
 Here is **XinRu Wang**.
 
